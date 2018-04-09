@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuites>
+  <testsuite Name="Functionality" failures="1" pass="0" tests="1">
+    <testcase name="Verify that you can Login with valid credentials" status="FAIL">
+      <failure/>
+    </testcase>
+  </testsuite>
+</testsuites>
